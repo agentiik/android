@@ -8,8 +8,8 @@ type roles and the voice from [`agentiik/design`](https://github.com/agentiik/de
 but not the density. A phone raises every hit target and drops the table to a card list;
 it does not shrink the console.
 
-It releases independently of the core; compatibility is expressed by the API version
-alone.
+It carries the same version as the core, as every repository of the project does, and
+compatibility with a server is expressed by the API version rather than by that number.
 
 Nothing is implemented yet. What the application is built against is the specification at
 <https://agentiik.github.io/docs>.
